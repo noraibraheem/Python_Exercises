@@ -1,0 +1,10 @@
+1.hello 
+2.world
+3.every
+4.one
+5.TWO
+6.THREE
+7.FOUR
+8.FIVE
+9.SIX
+10.SEVEN
